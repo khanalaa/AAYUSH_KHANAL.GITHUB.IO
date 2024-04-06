@@ -6,14 +6,14 @@ title: Aayush Khanal's Resume
 <div id="webaddress">
 <a href="datascience@byui.edu">khanalaa@byui.edu</a>
 | <a href="https://github.com/khanalaa">My git hub page</a>
-<a href="www.linkedin.com/in/aayushkhanal">Linkedin</a>
+| <a href="www.linkedin.com/in/aayushkhanal">Linkedin</a>
 </div>
 
 
 ## Education
 
 `Expected 2026`
-**Brigham Young University - Idaho**, Rexburg, ID
+**Bachelor's in Computer Science | Brigham Young University - Idaho**, Rexburg, ID
 
 - 4.0 Major GPA
 
