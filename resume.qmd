@@ -1,89 +1,64 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Aayush Khanal's Resume
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="datascience@byui.edu">khanalaa@byui.edu</a>
+| <a href="https://github.com/khanalaa">My git hub page</a>
+<a href="www.linkedin.com/in/aayushkhanal">Linkedin</a>
 </div>
-
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`Expected 2026`
+**Brigham Young University - Idaho**, Rexburg, ID
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- 4.0 Major GPA
 
-- Sizar
+## Relavant courses
+Intro to Programming, Discrete Mathematics, Intro to Databases, Intro to Cybersecurity, Technical Teamwork
+Data Science Programming, Programming with Functions and Classes, Javascript, Computer Systems, Algoritmic Thinking
 
-`1667 - death`
-__Trinity College, Cambridge__
+## Experience
+`Sept 2023 - Dec 2023`
+Late Night Carpet Cleaning Crew | Brigham Young University-Idaho | Rexburg, Idaho
 
-- Fellow
+- Excecuted late-night carpet cleaning duties across all buildings on campus, collaborating with team members to maintain cleanliness and sanitation standards promoting pleasant atmosphere through effective teamwork.
+- Spearheaded team to surpass cleaning goals, achieving a 18% efficiency boost.
+- Implemented rigorous safety measures and adherence to protocols, resulting in zero accidents during late-night shifts, ensuring the safety and well-being of crew members and building occupants.
+`Oct 2022 - May 2023`
+Librarian | University of Louisiana Monroe | Monroe, Louisiana
 
+- Managed a diverse collection of over 15 library resources, accessibility and organizational efficiency.
+- Initiated and oversaw a total of 22 library programs, led to a remarkable 18% increase in participation, engaging community in a variety of enriching activities and events.
 
+### Skills
+**Languages:** Python, Java.<br>
+**Web Programming:** HTML, CSS, JavaScript, React.Js, Node.Js.<br>
+**Databases:** MySQL, MongoDB.<br>
+**Others:** Git, GitHub, Linux, Microsoft Office Suite.
+ 
+### Projects
 
-## Awards
+`Oct 2023 - oct 2023`
+**Designer | My SQL Project**
 
-`2012`
-President, *Royal Society*, London, UK
+- Implemented MySQL database to efficiently retrieve and organize data, boosting overall accessibility and data management.
+- Established a rigorous data update schedule, resulting in a 95% reduction in outdated information, thus improving project accuracy and relevance.
 
-Associate, *French Academy of Science*, Paris, France
+`Aug 2023 - Dec 2023`
+**Designer/Developer | TownView Apartment Website**,
 
+- Designed HTML/CSS website for BYU-Idaho housing options, increasing accessibility.
+- Transformed housing search platforms, enhancing way information is delivered and streamlining user experience.
 
+`Dec 2023 - Present`
+**Designer/Developer | Minesweeper**,
 
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+- Designed and developed Minesweeper from scratch, showcasing proficiency in coding and problem-solving.
+- Implemented critical game features, highlighting self-reliance and a strong grasp of programming concepts.
 
 <!-- ### Footer
-
-Last updated: May 2013 -->
+Last updated: April 2024 -->
